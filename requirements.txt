@@ -1,5 +1,3 @@
 selenium
 requests
 pyvirtualdisplay
-muggle_ocr
-flask
